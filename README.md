@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @berry0gut
+- 👀 I’m interested in ...everyting!
+- 🌱 I’m currently learning ...python using
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
